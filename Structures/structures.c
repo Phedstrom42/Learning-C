@@ -1,4 +1,4 @@
-/* Going through "Pointers in C" from
+/* Going through "Structures in C" from
 www.cprogramming.com/tutorial/c/lesson7.html */
 
 #include <stdio.h>
